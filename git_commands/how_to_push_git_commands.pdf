@@ -1,0 +1,13 @@
+git init
+add files and folder
+git add [. or file name]
+git commit -m "commit message"
+git remote -v [if empty add remote repository
+git remote add origin url
+
+git push -u origin branch name
+
+if there's an error with remote url, then remove remote and add again
+git remote -v (to check)
+git remote rm branch name
+git remote add origin url
